@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/sarang-portfolio/.github/blob/main/profile/github_profile.JPG" alt="Profile Pic">
-</p>
-
 <h1 align="center">🚀 Welcome to Sarang's GitHub Portfolio 🚀</h1>
 
 <p align="center">Turning Coffee into Code, One Line at a Time ☕</p>
