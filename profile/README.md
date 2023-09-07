@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-profile-image-url-here" alt="Your Name's GitHub Portfolio">
+  <img src="https://github.com/sarang-portfolio/.github/blob/main/profile/github_profile.JPG" alt="Profile Pic">
 </p>
 
 <h1 align="center">🚀 Welcome to Sarang's GitHub Portfolio 🚀</h1>
