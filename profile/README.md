@@ -6,11 +6,9 @@
 
 ### 🤖 About Me
 
-Hello, fellow tech enthusiast! I'm Sarang, a passionate software engineer with a knack for building awesome things with cutting-edge technologies. My coding journey is fueled by a love for Node.js, Express.js, TypeScript, and all things JavaScript. 
+Hello, fellow tech enthusiast! I'm Sarang, a passionate software engineer with a knack for building awesome things with cutting-edge technologies. My coding journey is fueled by passion for Node.js, Express.js, TypeScript, Javascript. 
 
-I thrive on crafting scalable and maintainable solutions, and I'm well-versed in databases like PostgreSQL, MongoDB, Sequelize, Mongoose, and Redis. Real-time applications with WebSockets? Yep, I've got that covered too! 
-
-When I'm not coding, you'll find me diving into AWS Lambda functions and architecting serverless wonders, managing S3 buckets like a pro, and designing efficient microservices that run like clockwork.
+I thrive on crafting scalable and maintainable solutions, and I'm well-versed in databases like PostgreSQL, MongoDB, Sequelize, Mongoose, and Redis. Real-time applications with WebSockets? Yep, I've got that covered too!
 
 ---
 
